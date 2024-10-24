@@ -14,7 +14,9 @@ This repository contains a compilation of interactive Python exercises aimed at 
   - [`intro_2_function.ipynb`](intro_2_functions.ipynb): Focuses on functions.
     - [solutions 2](intro_2_functions_solutions.ipynb)
   - [`intro_3_io_regex.ipynb`](intro_3/intro_3_io_regex.ipynb): Focuses on I/O operations and regular expression use cases.
-    - [solutions 3 partial](intro_3/intro_3_io_regex_partial_solution.ipynb) ## its partial for now
+    - [solutions 3](intro_3/intro_3_io_regex_solution.ipynb) ## its partial for now
+  - [`intro_4_regex_strings.ipynb`](intro_4/intro_4_regex_strings.ipynb): Focuses on regular expression use cases.
+    - [solutions 4](intro_4/intro_4_regex_strings_solution.ipynb) ## not yet
 
 ## Getting Started
 
