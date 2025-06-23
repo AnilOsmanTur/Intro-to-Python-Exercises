@@ -18,7 +18,7 @@ This repository contains a compilation of interactive Python exercises aimed at 
   - [`intro_4_regex_strings.ipynb`](intro_4/intro_4_regex_strings.ipynb): Focuses on regular expression use cases.
     - [solutions 4](intro_4/intro_4_regex_strings_solution.ipynb)
   - [`intro_5_classes.ipynb`](intro_5_classes.ipynb): Focuses on object oriented programming use cases.
-    - [solutions 5](intro_5_classes_solution.ipynb)
+    - [solutions 5](intro_5_classes_solutions.ipynb)
 
 ## Getting Started
 
